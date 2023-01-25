@@ -4,7 +4,7 @@ ML ASSIGNMENT 1
 NAME : Nishit Reddy Lingala 
 Id: 700747128
 Git hub:  https://github.com/Nishitreddy/machine_learning.git
-Video link: 
+Video link: https://drive.google.com/file/d/1J9IrEXZaLR2mQxTgEys6ZCefAVLwyAZn/view?usp=share_link
 
 Description: 
 This file includes ,multiple python files corresponding to each question in the assignment. This is a submission for assignment1 which is regarding basics of python and basics of knn algorithm.
